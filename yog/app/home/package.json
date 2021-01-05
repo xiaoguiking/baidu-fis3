@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "yog2 release --dest debug --watch ",
+    "dev": "yog2 release --dest debug"
+  },
+  "author": "",
+  "license": "ISC"
+}
